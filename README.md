@@ -1,3 +1,10 @@
+# Link Ejemplo 1
+
+## 1 arduino con un display LCD 16x2
+
+https://www.tinkercad.com/things/60HAf59PZsb-sin-i2c/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
+
+
 
 
 
